@@ -1,0 +1,120 @@
+modul,anleitung,teil_id,bezeichnung,menge_pro_baugruppe,anzahl_baugruppen,einheit,kategorie,stl,hinweis
+fluegel,docs/01-fluegel.md,PRINT-rafters,Sparre (rafters),15,3,Stk,3D-Druck,wingMk3/raftersV1.0.stl,Perimeter 3 / Infill 10%
+fluegel,docs/01-fluegel.md,PRINT-raftersTip,Flügel-Endteil (raftersTip),1,3,Stk,3D-Druck,wingMk3/raftersTipV1.0.stl,Perimeter 3 / Infill 30%
+fluegel,docs/01-fluegel.md,PRINT-basePlug,Flügelbasis Stecker (basePlug),1,3,Stk,3D-Druck,wingMk3/basePlugV1.0.stl,Perimeter 5 / Infill 50%
+fluegel,docs/01-fluegel.md,PRINT-baseSocket,Flügelbasis Buchse (baseSocket),1,3,Stk,3D-Druck,wingMk3/baseSocketV1.3.stl,Perimeter 5 / Infill 50%
+fluegel,docs/01-fluegel.md,ALU-10x10,Aluminium-Vierkantrohr 10x10 mm,670,3,mm,Halbzeug,,1 Stange 67 cm pro Flügel
+fluegel,docs/01-fluegel.md,SCHRUMPF-140,Schrumpfschlauch ca. 140 mm Flachbreite (≈ Ø 90 mm),1000,3,mm,Verbrauchsmaterial,,ca. 1 m pro Flügel; bezieht den Flügel
+fluegel,docs/01-fluegel.md,M6x100-DIN933,M6x100 Sechskantschraube,1,3,Stk,Schraube,,Edelstahl empfohlen
+fluegel,docs/01-fluegel.md,M6-DIN985,M6 Mutter selbstsichernd,1,3,Stk,Mutter,,
+fluegel,docs/01-fluegel.md,M3-DIN934,M3 Mutter,5,3,Stk,Mutter,,
+fluegel,docs/01-fluegel.md,M3x20-DIN912,M3x20 Zylinderkopfschraube,3,3,Stk,Schraube,,
+fluegel,docs/01-fluegel.md,M3x8-DIN912,M3x8 Zylinderkopfschraube,2,3,Stk,Schraube,,
+fluegel,docs/01-fluegel.md,M5x75-DIN912,M5x75 Zylinderkopfschraube,2,3,Stk,Schraube,,Hackaday-Log nennt M5x80
+fluegel,docs/01-fluegel.md,KLEBER,Kleber (für Sparren-Steckverbindungen),1,1,Stk,Verbrauchsmaterial,,optional aber empfohlen
+windfahne,docs/02-windfahne.md,PRINT-vaneBaseMount,vaneBaseMount,2,1,Stk,3D-Druck,vane/vaneBaseMountV1.0.stl,Perimeter 5 / Infill 30%
+windfahne,docs/02-windfahne.md,PRINT-vaneVerticalMount,vaneVerticalMount,1,1,Stk,3D-Druck,vane/vaneVerticalMountV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneAngledMount,vaneAngledMount,1,1,Stk,3D-Druck,vane/vaneAngledMountV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneBackCornerBracket,vaneBackCornerBracket,1,1,Stk,3D-Druck,vane/vaneBackCornerBracketV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneFrontCornerBracket,vaneFrontCornerBracket,1,1,Stk,3D-Druck,vane/vaneFrontCornerBracketV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneSheetCorner105.8deg,vaneSheetCorner105.8deg,2,1,Stk,3D-Druck,vane/vaneSheetCorner105.8degV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneSheetCorner74.2deg,vaneSheetCorner74.2deg,2,1,Stk,3D-Druck,vane/vaneSheetCorner74.2degV1.0.stl,
+windfahne,docs/02-windfahne.md,PRINT-vaneSheetCorner90deg,vaneSheetCorner90deg,4,1,Stk,3D-Druck,vane/vaneSheetCorner90degV1.0.stl,
+windfahne,docs/02-windfahne.md,ALU-10x10,Aluminium-Vierkantrohr 10x10 mm,750,1,mm,Halbzeug,,"3 Stücke: 14 cm, 30 cm, 31 cm (Liste von Hackaday, nerdiy-Tabelle ist leer)"
+windfahne,docs/02-windfahne.md,M3x20-DIN7991,M3x20 Senkkopfschraube,16,1,Stk,Schraube,,
+windfahne,docs/02-windfahne.md,M3x6-DIN7991,M3x6 Senkkopfschraube,12,1,Stk,Schraube,,für die Segel-Eckwinkel
+windfahne,docs/02-windfahne.md,M3-DIN934,M3 Mutter,28,1,Stk,Mutter,,"nicht in der Liste, laut Text je Schraube eine Mutter (16+12)"
+windfahne,docs/02-windfahne.md,SEGEL,Segelstoff/Drachenfolie ca. 40x40 cm,1,1,Stk,Verbrauchsmaterial,,Ripstop/Drachenfolie oder Mülltüte
+windfahne,docs/02-windfahne.md,KABELBINDER,Kabelbinder,12,1,Stk,Verbrauchsmaterial,,zum Einspannen des Segels (Anzahl geschätzt)
+nabe,docs/03-nabe.md,PRINT-pitchArm,pitchArm,3,1,Stk,3D-Druck,hub/pitchArmV1.1.stl,Perimeter 5 / Infill 50%
+nabe,docs/03-nabe.md,PRINT-pitchLever,pitchLever,3,1,Stk,3D-Druck,hub/pitchLeverV1.1.stl,
+nabe,docs/03-nabe.md,PRINT-pitchArmNutSecuring,pitchArmNutSecuring,3,1,Stk,3D-Druck,hub/pitchArmNutSecuringV1.1.stl,
+nabe,docs/03-nabe.md,PRINT-hubBase,hubBase,1,1,Stk,3D-Druck,hub/hubBaseV1.6.stl,
+nabe,docs/03-nabe.md,PRINT-pitchLeverDisk,pitchLeverDisk,1,1,Stk,3D-Druck,hub/pitchLeverDiskV1.2.stl,
+nabe,docs/03-nabe.md,PRINT-hubCover,hubCover,1,1,Stk,3D-Druck,hub/hubCoverV1.1.stl,
+nabe,docs/03-nabe.md,PRINT-hubBearingCap,hubBearingCap,1,1,Stk,3D-Druck,hub/hubBearingCapV1.0.stl,
+nabe,docs/03-nabe.md,PRINT-hubStabilizerRing,hubStabilizerRing,1,1,Stk,3D-Druck,hub/hubStabilizerRingV1.1.stl,im Text erwähnt (Stabilisierungsring)
+nabe,docs/03-nabe.md,PRINT-hubBaseBearingClamp,hubBaseBearingClamp,1,1,Stk,3D-Druck,hub/hubBaseBearingClamp_v1.0.stl,nur im GitHub vorhanden – Anzahl prüfen
+nabe,docs/03-nabe.md,KL-603ZZ,Kugellager 603ZZ (3x9x5 mm),9,1,Stk,Kugellager,,
+nabe,docs/03-nabe.md,KL-606ZZ,Kugellager 606ZZ (6x17x6 mm),8,1,Stk,Kugellager,,
+nabe,docs/03-nabe.md,M6-DIN985,M6 Mutter selbstsichernd,5,1,Stk,Mutter,,
+nabe,docs/03-nabe.md,M6-DIN934,M6 Mutter,6,1,Stk,Mutter,,
+nabe,docs/03-nabe.md,M3x20-DIN912,M3x20 Zylinderkopfschraube,3,1,Stk,Schraube,,
+nabe,docs/03-nabe.md,M3-DIN985,M3 Mutter selbstsichernd,3,1,Stk,Mutter,,
+nabe,docs/03-nabe.md,M3-DIN934,M3 Mutter,15,1,Stk,Mutter,,
+nabe,docs/03-nabe.md,M3x30-DIN7991,M3x30 Senkkopfschraube,3,1,Stk,Schraube,,
+nabe,docs/03-nabe.md,M3x16-DIN7991,M3x16 Senkkopfschraube,3,1,Stk,Schraube,,
+nabe,docs/03-nabe.md,M3x40-DIN7991,M3x40 Senkkopfschraube,6,1,Stk,Schraube,,
+nabe,docs/03-nabe.md,M6-GEWINDESTANGE,M6 Gewindestange,600,1,mm,Halbzeug,,Schubstange 60 cm
+drehturm,docs/04-drehturm.md,PRINT-turretBearingTopMount2BasePlate,turretBearingTopMount2BasePlate,1,1,Stk,3D-Druck,turret/turretBearingTopMount2BasePlateV1.0.stl,Perimeter 5 / Infill 50%
+drehturm,docs/04-drehturm.md,PRINT-turretBearingTopMount,turretBearingTopMount,1,1,Stk,3D-Druck,turret/turretBearingTopMountV1.1.stl,
+drehturm,docs/04-drehturm.md,PRINT-turretBearingBase,turretBearingBase,1,1,Stk,3D-Druck,turret/turretBearingBaseV1.1.stl,
+drehturm,docs/04-drehturm.md,PRINT-turretBearingTopMountClamp,turretBearingTopMountClamp,3,1,Stk,3D-Druck,turret/turretBearingTopMountClampV1.0.stl,
+drehturm,docs/04-drehturm.md,PRINT-turretBearingBaseMountClamp,turretBearingBaseMountClamp,1,1,Stk,3D-Druck,turret/turretBearingBaseMountClampV1.1.stl,
+drehturm,docs/04-drehturm.md,SCHLEIFRING,Schleifring (Kapsel 12.5 mm 6 Kontakte),1,1,Stk,Elektronik,,2 Kontakte genügen – Strombelastbarkeit beachten
+drehturm,docs/04-drehturm.md,M3-DIN934,M3 Mutter,12,1,Stk,Mutter,,
+drehturm,docs/04-drehturm.md,M3x30-DIN7991,M3x30 Senkkopfschraube,9,1,Stk,Schraube,,
+drehturm,docs/04-drehturm.md,M3x25-DIN7991,M3x25 Senkkopfschraube,6,1,Stk,Schraube,,
+drehturm,docs/04-drehturm.md,KL-16014,Dünnring-Kugellager 16014 (70x110x13 mm),1,1,Stk,Kugellager,,Drehlager des Turms
+hauptachse,docs/05-hauptachse.md,PRINT-basePlate,basePlate,1,1,Stk,3D-Druck,basePlateV1.1.stl,Basisplatte (Repo-Wurzel)
+hauptachse,docs/05-hauptachse.md,PRINT-basePlateMainShaft,basePlateMainShaft,1,1,Stk,3D-Druck,mainAxis/basePlateMainShaftV1.0.stl,Perimeter 5 / Infill 50%
+hauptachse,docs/05-hauptachse.md,PRINT-mainShaftBearingMountBaseConnector,mainShaftBearingMountBaseConnector,1,1,Stk,3D-Druck,mainAxis/mainShaftBearingMountBaseConnectorV1.0.stl,
+hauptachse,docs/05-hauptachse.md,PRINT-mainShaftBearingMountBearingClamp,mainShaftBearingMountBearingClamp,2,1,Stk,3D-Druck,mainAxis/mainShaftBearingMountBearingClampV1.0.stl,
+hauptachse,docs/05-hauptachse.md,PRINT-mainShaftBearingMount,mainShaftBearingMount,1,1,Stk,3D-Druck,mainAxis/mainShaftBearingMountV1.0.stl,
+hauptachse,docs/05-hauptachse.md,PRINT-mainShaft,mainShaft,1,1,Stk,3D-Druck,mainAxis/mainShaftV1.1.stl,
+hauptachse,docs/05-hauptachse.md,PRINT-shaftCoupler,shaftCoupler,1,1,Stk,3D-Druck,mainAxis/shaftCouplerV1.0.stl,
+hauptachse,docs/05-hauptachse.md,ALU-10x10,Aluminium-Vierkantrohr 10x10 mm,145,2,mm,Halbzeug,,2 Stücke à 14.5 cm
+hauptachse,docs/05-hauptachse.md,KL-6008ZZ,Kugellager 6008ZZ (40x68x15 mm),2,1,Stk,Kugellager,,
+hauptachse,docs/05-hauptachse.md,M3x50-DIN7991,M3x50 Senkkopfschraube,12,1,Stk,Schraube,,
+hauptachse,docs/05-hauptachse.md,M3x16-DIN7991,M3x16 Senkkopfschraube,8,1,Stk,Schraube,,
+hauptachse,docs/05-hauptachse.md,M3x20-DIN7991,M3x20 Senkkopfschraube,6,1,Stk,Schraube,,
+hauptachse,docs/05-hauptachse.md,M3-DIN934,M3 Mutter,26,1,Stk,Mutter,,"nicht in der Liste, laut Text je Schraube eine Mutter (12+8+6)"
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-mountV,mountV,1,1,Stk,3D-Druck,pitch-actuator/mountV1.0.stl,Perimeter 5 / Infill 30%
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-pitchControllBase,pitchControllBase,1,1,Stk,3D-Druck,pitch-actuator/pitchControllBaseV1.4.stl,
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-gearSmall,gearSmall,1,1,Stk,3D-Druck,pitch-actuator/gearSmallV1.2.stl,
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-shaft,shaft,1,1,Stk,3D-Druck,pitch-actuator/shaftV1.0.stl,
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-nutCover,nutCover,1,1,Stk,3D-Druck,pitch-actuator/nutCoverV1.1.stl,
+pitch-aktor,docs/06-pitch-aktor.md,PRINT-sliderAdapter,sliderAdapter,1,1,Stk,3D-Druck,pitch-actuator/sliderAdapterV1.0.stl,nur im GitHub – Adapter für Schiebewiderstand
+pitch-aktor,docs/06-pitch-aktor.md,M3x50-DIN7991,M3x50 Senkkopfschraube,4,1,Stk,Schraube,,
+pitch-aktor,docs/06-pitch-aktor.md,M3x25-DIN7991,M3x25 Senkkopfschraube,6,1,Stk,Schraube,,
+pitch-aktor,docs/06-pitch-aktor.md,M3x16-DIN7991,M3x16 Senkkopfschraube,2,1,Stk,Schraube,,
+pitch-aktor,docs/06-pitch-aktor.md,M3-DIN934,M3 Mutter,15,1,Stk,Mutter,,
+pitch-aktor,docs/06-pitch-aktor.md,M3-DIN913,M3 Madenschraube,2,1,Stk,Schraube,,
+pitch-aktor,docs/06-pitch-aktor.md,KL-603ZZ,Kugellager 603ZZ (3x9x5 mm),1,1,Stk,Kugellager,,
+pitch-aktor,docs/06-pitch-aktor.md,KL-606ZZ,Kugellager 606ZZ (6x17x6 mm),1,1,Stk,Kugellager,,
+pitch-aktor,docs/06-pitch-aktor.md,M6-DIN934,M6 Mutter,1,1,Stk,Mutter,,
+pitch-aktor,docs/06-pitch-aktor.md,M3x40-DIN912,M3x40 Zylinderkopfschraube,3,1,Stk,Schraube,,
+pitch-aktor,docs/06-pitch-aktor.md,GETRIEBEMOTOR,Getriebemotor 3-6 V (TT-Motor 1:48),1,1,Stk,Elektronik,,Hackaday-Log: gleicher Motor wie Bremsaktor mit 1:48 Untersetzung
+pitch-aktor,docs/06-pitch-aktor.md,SCHRUMPF-KLEIN,Schrumpfschlauch klein (Kabel),100,1,mm,Verbrauchsmaterial,,
+pitch-aktor,docs/06-pitch-aktor.md,LITZE,Litze/Leitung verschiedene Farben,1000,1,mm,Elektronik,,
+pitch-aktor,docs/06-pitch-aktor.md,SCHIEBEPOTI,Schiebepotentiometer B10K 75 mm (SC6080GH),1,1,Stk,Elektronik,,Positionsrückmeldung Pitch
+zusammenbau,docs/07-zusammenbau.md,PRINT-mainShaftBearingMountCover,mainShaftBearingMountCover (Abdeckung Hauptachse),1,1,Stk,3D-Druck,covers/mainShaftBearingMountCoverV1.1.stl,Perimeter 5 / Infill 30%
+zusammenbau,docs/07-zusammenbau.md,PRINT-coverGenerator,coverGenerator (Abdeckung Generator),1,1,Stk,3D-Druck,covers/coverGeneratorV1.0.stl,
+zusammenbau,docs/07-zusammenbau.md,PRINT-gearBig,gearBig (großes Zahnrad Pitch),1,1,Stk,3D-Druck,pitch-actuator/gearBigV1.0.stl,
+zusammenbau,docs/07-zusammenbau.md,PRINT-gearBigDiskTop,gearBigDiskTop,1,1,Stk,3D-Druck,pitch-actuator/gearBigDiskTop.stl,Klemmscheiben für das große Zahnrad
+zusammenbau,docs/07-zusammenbau.md,PRINT-bigGearGuideDisk,bigGearGuideDisk,1,1,Stk,3D-Druck,pitch-actuator/bigGearGuideDiskV1.0.stl,
+zusammenbau,docs/07-zusammenbau.md,PRINT-bigGearSecureDisk,bigGearSecureDisk,1,1,Stk,3D-Druck,pitch-actuator/bigGearSecureDiskV1.0.stl,
+zusammenbau,docs/07-zusammenbau.md,ALU-10x10,Aluminium-Vierkantrohr 10x10 mm,750,2,mm,Halbzeug,,Geräteträger: 2 Stücke à 75 cm (Liste von Hackaday)
+zusammenbau,docs/07-zusammenbau.md,M3x30-DIN7991,M3x30 Senkkopfschraube,2,1,Stk,Schraube,,Abdeckung Hauptachse
+zusammenbau,docs/07-zusammenbau.md,M3x16-DIN7991,M3x16 Senkkopfschraube,6,1,Stk,Schraube,,2 Geräteträger + 4 Pitch-Aktor-Halterung
+zusammenbau,docs/07-zusammenbau.md,M3x50-DIN7991,M3x50 Senkkopfschraube,2,1,Stk,Schraube,,Geräteträger durch Alu-Profile
+zusammenbau,docs/07-zusammenbau.md,M3x10-DIN7991,M3x10 Senkkopfschraube,2,1,Stk,Schraube,,Abdeckung Generator
+zusammenbau,docs/07-zusammenbau.md,M3-DIN934,M3 Mutter,10,1,Stk,Mutter,,laut Liste 2+2+2+4
+zusammenbau,docs/07-zusammenbau.md,M3x20-DIN7991,M3x20 Senkkopfschraube,3,1,Stk,Schraube,,"nicht in der Liste, aus Text abgeleitet (Scheibenstapel großes Zahnrad)"
+zusammenbau,docs/07-zusammenbau.md,M3x25-DIN7991,M3x25 Senkkopfschraube,3,1,Stk,Schraube,,"nicht in der Liste, aus Text abgeleitet (Sicherung großes Zahnrad)"
+zusammenbau,docs/07-zusammenbau.md,M3-DIN934,M3 Mutter,6,1,Stk,Mutter,,"nicht in der Liste, aus Text abgeleitet"
+zusammenbau,docs/07-zusammenbau.md,M6-DIN934,M6 Mutter,2,1,Stk,Mutter,,"nicht in der Liste, aus Text abgeleitet (Scheibenstapel + großes Zahnrad)"
+generator,docs/08-nerdiskerator-generator.md,MAGNET-13x13,Neodym-Zylindermagnet Ø13x13 mm,40,1,Stk,Generator,,optional/separates Projekt: 2 Rotorscheiben à 20 Magnete; STLs nicht im WinDIY-Repo
+generator,docs/08-nerdiskerator-generator.md,CU-LACKDRAHT,Kupferlackdraht (für 12 Spulen),1,1,Rolle,Generator,,"optional; Drahtstärke/Windungszahl nicht dokumentiert"
+generator,docs/08-nerdiskerator-generator.md,EPOXID,Epoxidharz zum Vergießen der Spulen,1,1,Set,Generator,,optional
+generator,docs/08-nerdiskerator-generator.md,NTC-10K,NTC Thermistor 10k,3,1,Stk,Generator,,optional; Temperaturüberwachung der Statorwicklungen
+generator,docs/08-nerdiskerator-generator.md,GETRIEBEMOTOR-BREMSAKTOR,Getriebemotor 3-6 V (TT-Motor 1:48),1,1,Stk,Generator,,optional; Bremsaktor (Hackaday Schritt 8) – keine Materialliste vorhanden
+werkzeug,,WZ-HEISSKLEBER,Heißklebepistole + Sticks,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-INBUS,Innensechskantschlüssel-Set,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-ZANGE,Zange / Spitzzange,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-MAUL,Maulschlüssel 10 mm (M6),1,1,Stk,Werkzeug,,
+werkzeug,,WZ-AKKUBOHRER,Akkubohrer,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-BOHRER3,Bohrer 3 mm (lang ≥ 10 cm),1,1,Stk,Werkzeug,,
+werkzeug,,WZ-PINZETTE,Pinzette,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-LOETKOLBEN,Lötkolben + Lötzinn,1,1,Stk,Werkzeug,,
+werkzeug,,WZ-HEISSLUFT,Heißluftföhn (Schrumpfschlauch Flügel),1,1,Stk,Werkzeug,,
