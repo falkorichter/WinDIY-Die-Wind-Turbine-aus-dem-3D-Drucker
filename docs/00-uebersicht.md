@@ -36,31 +36,41 @@ Wichtig: Die Windturbine läuft aktuell (11.10.2020) noch nicht perfekt. Die Fl�
 
 ## Videos
 
+[![YouTube-Video 4lTF6Srq1Sk (Vorschau – klicken zum Abspielen)](images/00-uebersicht/526cfe-hqdefault.jpg)](https://www.youtube.com/watch?v=4lTF6Srq1Sk)
+
+[![YouTube-Video 2LUhlx3UHDU (Vorschau – klicken zum Abspielen)](images/00-uebersicht/12fd1e-hqdefault.jpg)](https://www.youtube.com/watch?v=2LUhlx3UHDU)
+
+[![YouTube-Video bc_JY1QIASI (Vorschau – klicken zum Abspielen)](images/00-uebersicht/3c8371-hqdefault.jpg)](https://www.youtube.com/watch?v=bc_JY1QIASI)
+
+[![YouTube-Video kaBYDYnNqEY (Vorschau – klicken zum Abspielen)](images/00-uebersicht/f58342-maxresdefault.jpg)](https://www.youtube.com/watch?v=kaBYDYnNqEY)
+
+[![YouTube-Video Erd5nXrznuY (Vorschau – klicken zum Abspielen)](images/00-uebersicht/c585fa-hqdefault.jpg)](https://www.youtube.com/watch?v=Erd5nXrznuY)
+
 ## Bilder
 
 Im folgenden ein paar Bilder verschiedener Komponenten aus verschiedenen Entwicklungsstadien.
 
-- [![](images/00-uebersicht/0d1019-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155115-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155115-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/8fe357-www.nerdiy.de-dsc00343-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00343-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/cf784a-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-incollage-20200606-144224754.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-incollage-20200606-144224754.jpg?ssl=1)
-- [![](images/00-uebersicht/7fae7e-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2038-scaled.jpeg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2038-scaled.jpeg?ssl=1)
-- [![](images/00-uebersicht/406c75-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2022-scaled.jpeg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2022-scaled.jpeg?ssl=1)
-- [![](images/00-uebersicht/ee136c-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-ezgif-2-5f108ec23d15.gif)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-ezgif-2-5f108ec23d15.gif?ssl=1)
-- [![](images/00-uebersicht/6ed0e0-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155310-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155310-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/53e930-www.nerdiy.de-dsc00301-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00301-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/1af3d3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155123-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155123-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/d8b993-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154951-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154951-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/ab9504-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154949-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154949-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/6ca088-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200420-184632-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200420-184632-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/eaa1c4-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200418-193125-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200418-193125-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/ad2ef3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-11-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-11-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/7cc111-www.nerdiy.de-dsc00367-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00367-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/5cecaf-www.nerdiy.de-dsc00307-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00307-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/bbac15-www.nerdiy.de-dsc00282-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00282-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/960b8c-www.nerdiy.de-dsc00275-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00275-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/6ecfdb-www.nerdiy.de-dsc00258-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00258-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/28cea4-www.nerdiy.de-dsc00255-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00255-scaled.jpg?ssl=1)
-- [![](images/00-uebersicht/e1da2d-www.nerdiy.de-dsc00234-scaled.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-dsc00234-scaled.jpg?ssl=1)
+- [![](images/00-uebersicht/0d1019-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155115-scaled.jpg)](images/00-uebersicht/0d1019-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155115-scaled.jpg)
+- [![](images/00-uebersicht/8fe357-www.nerdiy.de-dsc00343-scaled.jpg)](images/00-uebersicht/8fe357-www.nerdiy.de-dsc00343-scaled.jpg)
+- [![](images/00-uebersicht/cf784a-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-incollage-20200606-144224754.jpg)](images/00-uebersicht/cf784a-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-incollage-20200606-144224754.jpg)
+- [![](images/00-uebersicht/7fae7e-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2038-scaled.jpeg)](images/00-uebersicht/7fae7e-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2038-scaled.jpeg)
+- [![](images/00-uebersicht/406c75-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2022-scaled.jpeg)](images/00-uebersicht/406c75-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-img-2022-scaled.jpeg)
+- [![](images/00-uebersicht/ee136c-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-ezgif-2-5f108ec23d15.gif)](images/00-uebersicht/ee136c-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-ezgif-2-5f108ec23d15.gif)
+- [![](images/00-uebersicht/6ed0e0-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155310-scaled.jpg)](images/00-uebersicht/6ed0e0-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155310-scaled.jpg)
+- [![](images/00-uebersicht/53e930-www.nerdiy.de-dsc00301-scaled.jpg)](images/00-uebersicht/53e930-www.nerdiy.de-dsc00301-scaled.jpg)
+- [![](images/00-uebersicht/1af3d3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155123-scaled.jpg)](images/00-uebersicht/1af3d3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-155123-scaled.jpg)
+- [![](images/00-uebersicht/d8b993-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154951-scaled.jpg)](images/00-uebersicht/d8b993-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154951-scaled.jpg)
+- [![](images/00-uebersicht/ab9504-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154949-scaled.jpg)](images/00-uebersicht/ab9504-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200613-154949-scaled.jpg)
+- [![](images/00-uebersicht/6ca088-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200420-184632-scaled.jpg)](images/00-uebersicht/6ca088-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200420-184632-scaled.jpg)
+- [![](images/00-uebersicht/eaa1c4-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200418-193125-scaled.jpg)](images/00-uebersicht/eaa1c4-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-20200418-193125-scaled.jpg)
+- [![](images/00-uebersicht/ad2ef3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-11-scaled.jpg)](images/00-uebersicht/ad2ef3-www.nerdiy.de-windiy-die-wind-turbine-aus-dem-3d-drucker-11-scaled.jpg)
+- [![](images/00-uebersicht/7cc111-www.nerdiy.de-dsc00367-scaled.jpg)](images/00-uebersicht/7cc111-www.nerdiy.de-dsc00367-scaled.jpg)
+- [![](images/00-uebersicht/5cecaf-www.nerdiy.de-dsc00307-scaled.jpg)](images/00-uebersicht/5cecaf-www.nerdiy.de-dsc00307-scaled.jpg)
+- [![](images/00-uebersicht/bbac15-www.nerdiy.de-dsc00282-scaled.jpg)](images/00-uebersicht/bbac15-www.nerdiy.de-dsc00282-scaled.jpg)
+- [![](images/00-uebersicht/960b8c-www.nerdiy.de-dsc00275-scaled.jpg)](images/00-uebersicht/960b8c-www.nerdiy.de-dsc00275-scaled.jpg)
+- [![](images/00-uebersicht/6ecfdb-www.nerdiy.de-dsc00258-scaled.jpg)](images/00-uebersicht/6ecfdb-www.nerdiy.de-dsc00258-scaled.jpg)
+- [![](images/00-uebersicht/28cea4-www.nerdiy.de-dsc00255-scaled.jpg)](images/00-uebersicht/28cea4-www.nerdiy.de-dsc00255-scaled.jpg)
+- [![](images/00-uebersicht/e1da2d-www.nerdiy.de-dsc00234-scaled.jpg)](images/00-uebersicht/e1da2d-www.nerdiy.de-dsc00234-scaled.jpg)
 
 ---
 

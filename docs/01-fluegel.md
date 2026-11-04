@@ -79,7 +79,7 @@ Auf der folgenden Seite findet Ihr Infos und konfigurierbare Vorlagen für diese
 
 Bevor es mit dem Aufbau des Flügels losgehen kann, müsst Ihr natürlich zunächst alle benötigten Teile zusammen haben. Eine komplette Liste der benötigten Materialien und Werkzeuge findet Ihr weiter oben in der Material- und Werkzeugliste.
 
-[![](images/01-fluegel/b3b689-www.nerdiy.de-20200604-183500.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-183500.jpg?ssl=1)
+[![](images/01-fluegel/b3b689-www.nerdiy.de-20200604-183500.jpg)](images/01-fluegel/b3b689-www.nerdiy.de-20200604-183500.jpg)
 
 Die Kunststoffteile lassen sich leicht mit einem 3D Drucker erstellen. Alle Teile sind so designet, dass sie sich auf einem normalen FMD Drucker drucken lassen.
 
@@ -110,19 +110,19 @@ Ich habe die Teile mit den Folgenden Einstellungen gedruckt.
 
 Etwas untypisch fangen wir mit dem Ende an. Nämlich dem Endteil des Flügels.
 
-[![](images/01-fluegel/007d59-www.nerdiy.de-20200604-190800.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-190800.jpg?ssl=1)
+[![](images/01-fluegel/007d59-www.nerdiy.de-20200604-190800.jpg)](images/01-fluegel/007d59-www.nerdiy.de-20200604-190800.jpg)
 
 Dazu benötigt Ihr die abgebildeten Teile.
 
-[![](images/01-fluegel/9a1795-www.nerdiy.de-20200604-190946.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-190946.jpg?ssl=1)
+[![](images/01-fluegel/9a1795-www.nerdiy.de-20200604-190946.jpg)](images/01-fluegel/9a1795-www.nerdiy.de-20200604-190946.jpg)
 
 Steckt nun das Aluminiumprofil in das Flügel-Endteil.
 
-[![](images/01-fluegel/be52ae-www.nerdiy.de-20200604-190954.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-190954.jpg?ssl=1)
+[![](images/01-fluegel/be52ae-www.nerdiy.de-20200604-190954.jpg)](images/01-fluegel/be52ae-www.nerdiy.de-20200604-190954.jpg)
 
 Dies sollte bis zum Anschlag in das Flügel-Endteil eingeschoben sein.
 
-[![](images/01-fluegel/1af004-www.nerdiy.de-20200604-191019.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191019.jpg?ssl=1)
+[![](images/01-fluegel/1af004-www.nerdiy.de-20200604-191019.jpg)](images/01-fluegel/1af004-www.nerdiy.de-20200604-191019.jpg)
 
 Denn nun müsst Ihr zunächst ein Loch in das Aluminiumprofil bohren.
 
@@ -130,29 +130,29 @@ Dazu benutzt ihr das Flügel-Endteil als Schablone. Indem Ihr durch das Loch (we
 
 **Wichtig: Achtet beim Bohren darauf, dass Ihr nur durch eine Außenseite des Aluminiumprofils bohrt. Ihr solltet nicht komplett durchbohren!**
 
-[![](images/01-fluegel/b0d78f-www.nerdiy.de-20200604-191030.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191030.jpg?ssl=1)
+[![](images/01-fluegel/b0d78f-www.nerdiy.de-20200604-191030.jpg)](images/01-fluegel/b0d78f-www.nerdiy.de-20200604-191030.jpg)
 
 Fertig gebohrt sollte Euer Aluminiumprofil dann in etwa so aussehen.
 
-[![](images/01-fluegel/a84e82-www.nerdiy.de-20200604-191113.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191113.jpg?ssl=1)
+[![](images/01-fluegel/a84e82-www.nerdiy.de-20200604-191113.jpg)](images/01-fluegel/a84e82-www.nerdiy.de-20200604-191113.jpg)
 
 Nun muss das vorbereitete Aluminiumprofil mit dem Flügel-Endteil verbunden werden. Schiebt dazu eine M3 Schraube wie abgebildet in das Flügel-Endteil ein.
 
-[![](images/01-fluegel/6b77b3-www.nerdiy.de-20200604-191138.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191138.jpg?ssl=1)
+[![](images/01-fluegel/6b77b3-www.nerdiy.de-20200604-191138.jpg)](images/01-fluegel/6b77b3-www.nerdiy.de-20200604-191138.jpg)
 
 Dies sollte dann wie abgebildet in die Aussparung für das Aluminiumprofil hineinragen.
 
-[![](images/01-fluegel/129412-www.nerdiy.de-20200604-191150.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191150.jpg?ssl=1)
+[![](images/01-fluegel/129412-www.nerdiy.de-20200604-191150.jpg)](images/01-fluegel/129412-www.nerdiy.de-20200604-191150.jpg)
 
 Nun wird es etwas kniffelig.
 
 Durch die Öffnung in die später das Aluminiumprofil in das Flügel-Endteil eingeschoben wird, müsst Ihr nun eine M3 Mutter auf die zuvor eingeschobene M3 Schraube aufschrauben.
 
-[![](images/01-fluegel/3d11ff-www.nerdiy.de-20200604-191225.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191225.jpg?ssl=1)
+[![](images/01-fluegel/3d11ff-www.nerdiy.de-20200604-191225.jpg)](images/01-fluegel/3d11ff-www.nerdiy.de-20200604-191225.jpg)
 
 Die fertig aufgeschraubte M3 Mutter könnte dann in etwa so aussehen.
 
-[![](images/01-fluegel/e2ab8d-www.nerdiy.de-20200604-191313.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191313.jpg?ssl=1)
+[![](images/01-fluegel/e2ab8d-www.nerdiy.de-20200604-191313.jpg)](images/01-fluegel/e2ab8d-www.nerdiy.de-20200604-191313.jpg)
 
 Nun könnt Ihr das Aluminiumprofil wie abgebildet in das Flügel-Endteil einstecken und mit der vorbereiteten Schraube verschrauben.
 
@@ -160,83 +160,83 @@ Nun könnt Ihr das Aluminiumprofil wie abgebildet in das Flügel-Endteil einstec
 
 ## Die ersten fünf Sparren montieren
 
-[![](images/01-fluegel/6db276-www.nerdiy.de-20200604-191754.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191754.jpg?ssl=1)
+[![](images/01-fluegel/6db276-www.nerdiy.de-20200604-191754.jpg)](images/01-fluegel/6db276-www.nerdiy.de-20200604-191754.jpg)
 
 Nachdem das Flügel-Endteil montiert ist, könnt Ihr nun die ersten Fünf Sparren auf dem Flügel montieren.
 
-[![](images/01-fluegel/0da195-www.nerdiy.de-20200604-191855.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191855.jpg?ssl=1)
+[![](images/01-fluegel/0da195-www.nerdiy.de-20200604-191855.jpg)](images/01-fluegel/0da195-www.nerdiy.de-20200604-191855.jpg)
 
 Schiebt dazu die ersten **vier** Sparren wie abgebildet auf das Aluminiumprofil.
 
-[![](images/01-fluegel/3bd53c-www.nerdiy.de-20200604-191913.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191913.jpg?ssl=1)
+[![](images/01-fluegel/3bd53c-www.nerdiy.de-20200604-191913.jpg)](images/01-fluegel/3bd53c-www.nerdiy.de-20200604-191913.jpg)
 
 Die fünfte Sparre müsst Ihr nun etwas vorbereiten.
 
 Diese wird nämlich – ähnlich wie beim Flügel-Endteil – mit einer Schraube auf dem Aluminiumprofil fixiert.
 
-[![](images/01-fluegel/46dc02-www.nerdiy.de-20200604-191943.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-191943.jpg?ssl=1)
+[![](images/01-fluegel/46dc02-www.nerdiy.de-20200604-191943.jpg)](images/01-fluegel/46dc02-www.nerdiy.de-20200604-191943.jpg)
 
 Setzt dazu die M3 Schraube wie abgebildet in das Loch im Sparren ein und schraubt die M3 Mutter wie abgebildet auf der Innenseite auf.
 
 Die M3 Mutter könnt Ihr dann mithilfe der Schraube in die Aussparung im Sparren ziehen.
 
-[![](images/01-fluegel/ab18b3-www.nerdiy.de-20200604-192047.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192047.jpg?ssl=1)
+[![](images/01-fluegel/ab18b3-www.nerdiy.de-20200604-192047.jpg)](images/01-fluegel/ab18b3-www.nerdiy.de-20200604-192047.jpg)
 
 So vorbereitet könnt Ihr nun die Fünfte Sparre lose auf das Aluminiumprofil aufschieben.
 
-[![](images/01-fluegel/c5fbd9-www.nerdiy.de-20200604-192052.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192052.jpg?ssl=1)
+[![](images/01-fluegel/c5fbd9-www.nerdiy.de-20200604-192052.jpg)](images/01-fluegel/c5fbd9-www.nerdiy.de-20200604-192052.jpg)
 
 Bevor die einzelnen Sparren nun zusammengeschoben werden, solltet Ihr die Steckverbindungen mit etwas Kleber bestreichen.
 
 Dies ist nicht unbedingt notwendig, da die Flügelteil sehr wahrscheinlich auch ohne Kleber zusammen halten. Ich empfehle es aber. 🙂
 
-[![](images/01-fluegel/c251a1-www.nerdiy.de-20200604-192137.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192137.jpg?ssl=1)
+[![](images/01-fluegel/c251a1-www.nerdiy.de-20200604-192137.jpg)](images/01-fluegel/c251a1-www.nerdiy.de-20200604-192137.jpg)
 
 Bestreicht dazu die Positionierhilfe an der …
 
-[![](images/01-fluegel/4f90a0-www.nerdiy.de-20200604-192143.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192143.jpg?ssl=1)
+[![](images/01-fluegel/4f90a0-www.nerdiy.de-20200604-192143.jpg)](images/01-fluegel/4f90a0-www.nerdiy.de-20200604-192143.jpg)
 
 …Flügel-Hinterkante …
 
-[![](images/01-fluegel/fb91ed-www.nerdiy.de-20200604-192203.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192203.jpg?ssl=1)
+[![](images/01-fluegel/fb91ed-www.nerdiy.de-20200604-192203.jpg)](images/01-fluegel/fb91ed-www.nerdiy.de-20200604-192203.jpg)
 
 … jedes einzelnen Sparrens…
 
-[![](images/01-fluegel/8f1ace-www.nerdiy.de-20200604-192204.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192204.jpg?ssl=1)
+[![](images/01-fluegel/8f1ace-www.nerdiy.de-20200604-192204.jpg)](images/01-fluegel/8f1ace-www.nerdiy.de-20200604-192204.jpg)
 
 … sowie an der Flügel-Vorderseite mit einem kleinen Tropfen Kleber.
 
-[![](images/01-fluegel/d3f3a9-www.nerdiy.de-20200604-192207.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192207.jpg?ssl=1)
+[![](images/01-fluegel/d3f3a9-www.nerdiy.de-20200604-192207.jpg)](images/01-fluegel/d3f3a9-www.nerdiy.de-20200604-192207.jpg)
 
 Habt Ihr alle Sparren mit dem Kleber vorbereitet…
 
-[![](images/01-fluegel/d728df-www.nerdiy.de-20200604-192219.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192219.jpg?ssl=1)
+[![](images/01-fluegel/d728df-www.nerdiy.de-20200604-192219.jpg)](images/01-fluegel/d728df-www.nerdiy.de-20200604-192219.jpg)
 
 …könnt Ihr sie nun zusammenstecken.
 
-[![](images/01-fluegel/111c6d-www.nerdiy.de-20200604-192258.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192258.jpg?ssl=1)
+[![](images/01-fluegel/111c6d-www.nerdiy.de-20200604-192258.jpg)](images/01-fluegel/111c6d-www.nerdiy.de-20200604-192258.jpg)
 
 Ansicht der ersten zusammen gesteckten Sparren.
 
-[![](images/01-fluegel/b4dd74-www.nerdiy.de-20200604-192300.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192300.jpg?ssl=1)
+[![](images/01-fluegel/b4dd74-www.nerdiy.de-20200604-192300.jpg)](images/01-fluegel/b4dd74-www.nerdiy.de-20200604-192300.jpg)
 
 Nahansicht des Lochs an der Vorderkante der Sparren in das die Positionierhilfe eingesteckt werden muss.
 
-[![](images/01-fluegel/5c7a62-www.nerdiy.de-20200604-192302.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192302.jpg?ssl=1)
+[![](images/01-fluegel/5c7a62-www.nerdiy.de-20200604-192302.jpg)](images/01-fluegel/5c7a62-www.nerdiy.de-20200604-192302.jpg)
 
 Nahansicht des Lochs an der Hinterkante der Sparren in das die Positionierhilfe eingesteckt werden muss.
 
-[![](images/01-fluegel/db524c-www.nerdiy.de-20200605-170424.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170424.jpg?ssl=1)
+[![](images/01-fluegel/db524c-www.nerdiy.de-20200605-170424.jpg)](images/01-fluegel/db524c-www.nerdiy.de-20200605-170424.jpg)
 
 Bereitet die fünfte Sparre nun so vor, dass die Mutter, welche auf der Schraube sitzt in die Aussparung im Sparren gezogen wird.
 
 Dann könnt Ihr die Sparre auf das Aluminiumprofil schieben.
 
-[![](images/01-fluegel/0c6456-www.nerdiy.de-20200604-192353.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192353.jpg?ssl=1)
+[![](images/01-fluegel/0c6456-www.nerdiy.de-20200604-192353.jpg)](images/01-fluegel/0c6456-www.nerdiy.de-20200604-192353.jpg)
 
 Sobald Ihr die ersten fünf Sparren zusammengesteckt habt, könnt Ihr die fünfte (zuvor mit der Schraube vorbereitete) Sparre mit der Schraube auf dem Aluminiumprofil fest schrauben.
 
-[![](images/01-fluegel/d89f07-www.nerdiy.de-20200604-192358.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192358.jpg?ssl=1)
+[![](images/01-fluegel/d89f07-www.nerdiy.de-20200604-192358.jpg)](images/01-fluegel/d89f07-www.nerdiy.de-20200604-192358.jpg)
 
 Achtet dabei darauf die Schraube zwar fest **aber nicht zu fest** zu ziehen.
 
@@ -246,25 +246,25 @@ Achtet dabei darauf die Schraube zwar fest **aber nicht zu fest** zu ziehen.
 
 Die Sparren sechs bis zehn werden im Prinzip genauso wie die vorherigen fünf Sparren montiert.
 
-[![](images/01-fluegel/caf03e-www.nerdiy.de-20200604-192507.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192507.jpg?ssl=1)
+[![](images/01-fluegel/caf03e-www.nerdiy.de-20200604-192507.jpg)](images/01-fluegel/caf03e-www.nerdiy.de-20200604-192507.jpg)
 
 Ihr benötigt nun weitere fünf Sparren.
 
-[![](images/01-fluegel/1ded99-www.nerdiy.de-20200604-192929.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192929.jpg?ssl=1)
+[![](images/01-fluegel/1ded99-www.nerdiy.de-20200604-192929.jpg)](images/01-fluegel/1ded99-www.nerdiy.de-20200604-192929.jpg)
 
 Vier davon könnt Ihr wie gewohnt auf das Aluminiumprofil aufschieben.
 
-[![](images/01-fluegel/9d5632-www.nerdiy.de-20200604-192935.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192935.jpg?ssl=1)
+[![](images/01-fluegel/9d5632-www.nerdiy.de-20200604-192935.jpg)](images/01-fluegel/9d5632-www.nerdiy.de-20200604-192935.jpg)
 
 Das fünfte solltet Ihr wie zuvor mit einer Schraube vorbereiten. Mit dieser kann die fünfte Sparre wie schon zuvor auf dem Aluminiumprofil gesichert werden.
 
-[![](images/01-fluegel/a5443e-www.nerdiy.de-20200604-192956.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-192956.jpg?ssl=1)
+[![](images/01-fluegel/a5443e-www.nerdiy.de-20200604-192956.jpg)](images/01-fluegel/a5443e-www.nerdiy.de-20200604-192956.jpg)
 
 Alle fünf vorbereiteten Sparren würden dann so aussehen.
 
 Nun könnt Ihr die Steckverbinder wie zuvor mit etwas Kleber bestreichen und…
 
-[![](images/01-fluegel/a1ce70-www.nerdiy.de-20200604-193218.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200604-193218.jpg?ssl=1)
+[![](images/01-fluegel/a1ce70-www.nerdiy.de-20200604-193218.jpg)](images/01-fluegel/a1ce70-www.nerdiy.de-20200604-193218.jpg)
 
 … die einzelnen Sparren zusammen stecken.
 
@@ -276,27 +276,27 @@ Wenn alles ordentlich zusammen gesteckt ist könnt Ihr auch die Schraube der let
 
 Mittlerweile habt Ihr ja schon Übung bei der Installation weiterer Sparren. Nun geht es an die Installation der letzten fünf Sparren, bevor die Steckverbindung für den Flügel montiert wird.
 
-[![](images/01-fluegel/37aa5a-www.nerdiy.de-20200605-170245.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170245.jpg?ssl=1)
+[![](images/01-fluegel/37aa5a-www.nerdiy.de-20200605-170245.jpg)](images/01-fluegel/37aa5a-www.nerdiy.de-20200605-170245.jpg)
 
 Hier seht Ihr den bisher aufgebauten Flügel und die fünf noch nicht installierten Sparren.
 
-[![](images/01-fluegel/cd3099-www.nerdiy.de-20200605-170251.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170251.jpg?ssl=1)
+[![](images/01-fluegel/cd3099-www.nerdiy.de-20200605-170251.jpg)](images/01-fluegel/cd3099-www.nerdiy.de-20200605-170251.jpg)
 
 Weitere Ansicht.
 
-[![](images/01-fluegel/1ccf44-www.nerdiy.de-20200605-170415.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170415.jpg?ssl=1)
+[![](images/01-fluegel/1ccf44-www.nerdiy.de-20200605-170415.jpg)](images/01-fluegel/1ccf44-www.nerdiy.de-20200605-170415.jpg)
 
 Bereitet wieder wie gehabt die fünfte Sparre so vor, dass Ihr diese später mit einer Schraube auf dem Aluminiumprofil fixieren könnt.
 
-[![](images/01-fluegel/31889c-www.nerdiy.de-20200605-170442.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170442.jpg?ssl=1)
+[![](images/01-fluegel/31889c-www.nerdiy.de-20200605-170442.jpg)](images/01-fluegel/31889c-www.nerdiy.de-20200605-170442.jpg)
 
 Schiebt die fünf Sparren nun wieder auf das Aluminiumprofil, bereitete die Steckverbindungen mit Kleber vor…
 
-[![](images/01-fluegel/815fc8-www.nerdiy.de-20200605-170625.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170625.jpg?ssl=1)
+[![](images/01-fluegel/815fc8-www.nerdiy.de-20200605-170625.jpg)](images/01-fluegel/815fc8-www.nerdiy.de-20200605-170625.jpg)
 
 …und Schiebt die Sparren bzw. deren Steckverbindungen zusammen.
 
-[![](images/01-fluegel/415a32-www.nerdiy.de-20200605-170628.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170628.jpg?ssl=1)
+[![](images/01-fluegel/415a32-www.nerdiy.de-20200605-170628.jpg)](images/01-fluegel/415a32-www.nerdiy.de-20200605-170628.jpg)
 
 Mithilfe der Schraube in der letzten Sparre könnt Ihr die Sparren dann wieder auf dem Aluminiumprofil sichern.
 
@@ -306,29 +306,29 @@ Mithilfe der Schraube in der letzten Sparre könnt Ihr die Sparren dann wieder a
 
 Damit der Flügel später leicht montiert bzw. demontiert werden kann, könnt Ihr jetzt noch den ersten Teil der Steckverbindung auf dem Aluminiumprofl montieren.
 
-[![](images/01-fluegel/b47bb0-www.nerdiy.de-20200605-170653.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170653.jpg?ssl=1)
+[![](images/01-fluegel/b47bb0-www.nerdiy.de-20200605-170653.jpg)](images/01-fluegel/b47bb0-www.nerdiy.de-20200605-170653.jpg)
 
 Dazu benötigt Ihr den abgebildeten oberen Teil der Steckverbindung und eine M3 Schraube inkl. Mutter.
 
-[![](images/01-fluegel/068789-www.nerdiy.de-20200605-170847.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170847.jpg?ssl=1)
+[![](images/01-fluegel/068789-www.nerdiy.de-20200605-170847.jpg)](images/01-fluegel/068789-www.nerdiy.de-20200605-170847.jpg)
 
 Wie bereits beim Flügel-Endteil müsst Ihr nun den oberen Teil der Steckverbindung auf das Aluminiumprofil aufstecken und mit einem 3mm Bohrer durch das Schraubenloch der Steckverbindung bohren.
 
 Ziel ist es dabei (wie beim Flügel-Endteil) ein Loch in eine Seite des Aluminiumprofils zu bohren.
 
-[![](images/01-fluegel/8dc002-www.nerdiy.de-20200605-170656.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170656.jpg?ssl=1)
+[![](images/01-fluegel/8dc002-www.nerdiy.de-20200605-170656.jpg)](images/01-fluegel/8dc002-www.nerdiy.de-20200605-170656.jpg)
 
 Habt Ihr das Loch gebohrt, könnt Ihr nun wieder die Schraube in den Steckverbinder einsetzen.
 
-[![](images/01-fluegel/784473-www.nerdiy.de-20200605-170801.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170801.jpg?ssl=1)
+[![](images/01-fluegel/784473-www.nerdiy.de-20200605-170801.jpg)](images/01-fluegel/784473-www.nerdiy.de-20200605-170801.jpg)
 
 Dies sollte dann in etwa so aussehen.
 
-[![](images/01-fluegel/e5feaf-www.nerdiy.de-20200605-170910.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-170910.jpg?ssl=1)
+[![](images/01-fluegel/e5feaf-www.nerdiy.de-20200605-170910.jpg)](images/01-fluegel/e5feaf-www.nerdiy.de-20200605-170910.jpg)
 
 Nun könnt Ihr den Steckverbinder auf das Aluminiumprofil schieben und mit der vorbereiteten Schraube auf dem Aluminiumprofil verklemmen.
 
-[![](images/01-fluegel/8f32e5-www.nerdiy.de-20200605-171104.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171104.jpg?ssl=1)
+[![](images/01-fluegel/8f32e5-www.nerdiy.de-20200605-171104.jpg)](images/01-fluegel/8f32e5-www.nerdiy.de-20200605-171104.jpg)
 
 Nun sieht der Flügel schon fast fertig aus.
 
@@ -338,77 +338,77 @@ Nun sieht der Flügel schon fast fertig aus.
 
 Der gerade montierte Steckverbinder muss natürlich auch irgendwo eingesteckt werden können. Dazu solltet Ihr nun den nabenseitigen Teil der Flügelsteckverbindung vorbereiten. Diese wird dann später beim Aufbau der Nabe an der Nabe montiert.
 
-[![](images/01-fluegel/ca105d-www.nerdiy.de-20200605-171250.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171250.jpg?ssl=1)
+[![](images/01-fluegel/ca105d-www.nerdiy.de-20200605-171250.jpg)](images/01-fluegel/ca105d-www.nerdiy.de-20200605-171250.jpg)
 
 Dazu benötigt Ihr nun die abgebildeten Teile.
 
-[![](images/01-fluegel/902764-www.nerdiy.de-20200605-171254.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171254.jpg?ssl=1)
+[![](images/01-fluegel/902764-www.nerdiy.de-20200605-171254.jpg)](images/01-fluegel/902764-www.nerdiy.de-20200605-171254.jpg)
 
 Weitere Ansicht
 
-[![](images/01-fluegel/01cb41-www.nerdiy.de-20200605-171326.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171326.jpg?ssl=1)
+[![](images/01-fluegel/01cb41-www.nerdiy.de-20200605-171326.jpg)](images/01-fluegel/01cb41-www.nerdiy.de-20200605-171326.jpg)
 
 Schiebt nun die M6x100 Schraube wie abgebildet…
 
-[![](images/01-fluegel/60c3a9-www.nerdiy.de-20200605-171336.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171336.jpg?ssl=1)
+[![](images/01-fluegel/60c3a9-www.nerdiy.de-20200605-171336.jpg)](images/01-fluegel/60c3a9-www.nerdiy.de-20200605-171336.jpg)
 
 …in den Steckverbinder…
 
-[![](images/01-fluegel/2dd72e-www.nerdiy.de-20200605-171347.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171347.jpg?ssl=1)
+[![](images/01-fluegel/2dd72e-www.nerdiy.de-20200605-171347.jpg)](images/01-fluegel/2dd72e-www.nerdiy.de-20200605-171347.jpg)
 
 …und setzt die selbstsichernde M6 Mutter wie abgebildet auf die M6x100 Schraube.
 
-[![](images/01-fluegel/6b7011-www.nerdiy.de-20200605-171526.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171526.jpg?ssl=1)
+[![](images/01-fluegel/6b7011-www.nerdiy.de-20200605-171526.jpg)](images/01-fluegel/6b7011-www.nerdiy.de-20200605-171526.jpg)
 
 Fertig aufgeschraubt…
 
-[![](images/01-fluegel/0fe213-www.nerdiy.de-20200605-171615.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171615.jpg?ssl=1)
+[![](images/01-fluegel/0fe213-www.nerdiy.de-20200605-171615.jpg)](images/01-fluegel/0fe213-www.nerdiy.de-20200605-171615.jpg)
 
 …sollte dies dann so aussehen.
 
-[![](images/01-fluegel/561dfb-www.nerdiy.de-20200605-171625.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171625.jpg?ssl=1)
+[![](images/01-fluegel/561dfb-www.nerdiy.de-20200605-171625.jpg)](images/01-fluegel/561dfb-www.nerdiy.de-20200605-171625.jpg)
 
 Achtet dabei darauf, dass der Kopf der M6x100 Schraube korrekt in die dafür vorgesehen Aussparung eingelegt ist.
 
-[![](images/01-fluegel/d8660a-www.nerdiy.de-20200605-171653.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171653.jpg?ssl=1)
+[![](images/01-fluegel/d8660a-www.nerdiy.de-20200605-171653.jpg)](images/01-fluegel/d8660a-www.nerdiy.de-20200605-171653.jpg)
 
 Nun könnt Ihr die Steckverbindung das erste Mal testen.
 
-[![](images/01-fluegel/b450dc-www.nerdiy.de-20200605-171702.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171702.jpg?ssl=1)
+[![](images/01-fluegel/b450dc-www.nerdiy.de-20200605-171702.jpg)](images/01-fluegel/b450dc-www.nerdiy.de-20200605-171702.jpg)
 
 Die Teile sollten sich wie abgebildet ineinander Stecken lassen.
 
-[![](images/01-fluegel/5c638f-www.nerdiy.de-20200605-171709.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171709.jpg?ssl=1)
+[![](images/01-fluegel/5c638f-www.nerdiy.de-20200605-171709.jpg)](images/01-fluegel/5c638f-www.nerdiy.de-20200605-171709.jpg)
 
 Die Steckverbindung könnt Ihr nun mit der M5 Schraube sichern.
 
 Steckt diese dazu komplett durch die beiden Teile der Steckverbindung…
 
-[![](images/01-fluegel/bfaf90-www.nerdiy.de-20200605-171815.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171815.jpg?ssl=1)
+[![](images/01-fluegel/bfaf90-www.nerdiy.de-20200605-171815.jpg)](images/01-fluegel/bfaf90-www.nerdiy.de-20200605-171815.jpg)
 
 … und verschraubt sie mit der passenden M5 Mutter so, dass die Steckverbindung von der M5 Schraube zusammen gehalten wird.
 
-[![](images/01-fluegel/5f4a91-www.nerdiy.de-20200605-171836.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171836.jpg?ssl=1)
+[![](images/01-fluegel/5f4a91-www.nerdiy.de-20200605-171836.jpg)](images/01-fluegel/5f4a91-www.nerdiy.de-20200605-171836.jpg)
 
 Befestigt die Schraube auf der ober- und…
 
-[![](images/01-fluegel/01e52a-www.nerdiy.de-20200605-171845.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171845.jpg?ssl=1)
+[![](images/01-fluegel/01e52a-www.nerdiy.de-20200605-171845.jpg)](images/01-fluegel/01e52a-www.nerdiy.de-20200605-171845.jpg)
 
 … unterseite des Flügels.
 
-[![](images/01-fluegel/73e428-www.nerdiy.de-20200605-171910.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-171910.jpg?ssl=1)
+[![](images/01-fluegel/73e428-www.nerdiy.de-20200605-171910.jpg)](images/01-fluegel/73e428-www.nerdiy.de-20200605-171910.jpg)
 
 Weitere Ansicht.
 
-[![](images/01-fluegel/081e0e-www.nerdiy.de-20200605-172001.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-172001.jpg?ssl=1)
+[![](images/01-fluegel/081e0e-www.nerdiy.de-20200605-172001.jpg)](images/01-fluegel/081e0e-www.nerdiy.de-20200605-172001.jpg)
 
 Nun ist die Struktur für Eueren Flügel fertig. Das einzige was noch fehlt ist die Flügeloberfläche.
 
-[![](images/01-fluegel/a924e4-www.nerdiy.de-20200605-172013.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-172013.jpg?ssl=1)
+[![](images/01-fluegel/a924e4-www.nerdiy.de-20200605-172013.jpg)](images/01-fluegel/a924e4-www.nerdiy.de-20200605-172013.jpg)
 
 Weitere Ansicht.
 
-[![](images/01-fluegel/5ed87e-www.nerdiy.de-20200605-172020.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200605-172020.jpg?ssl=1)
+[![](images/01-fluegel/5ed87e-www.nerdiy.de-20200605-172020.jpg)](images/01-fluegel/5ed87e-www.nerdiy.de-20200605-172020.jpg)
 
 Weitere Ansicht.
 
@@ -418,53 +418,53 @@ Weitere Ansicht.
 
 Damit der Flügel dem Wind einen Widerstand bieten kann und seine aerodynamische Form Auftrieb erzeugen kann ist es wichtig, dass das Gerippe des Flügels mit einer Folie bezogen wird. Am einfachsten ist es dazu den Flügel in einen entsprechend großen Schrumpfschlauch zu legen.
 
-[![](images/01-fluegel/d69d66-www.nerdiy.de-20200629-181936.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-181936.jpg?ssl=1)
+[![](images/01-fluegel/d69d66-www.nerdiy.de-20200629-181936.jpg)](images/01-fluegel/d69d66-www.nerdiy.de-20200629-181936.jpg)
 
 Dazu benötigt Ihr die abgebildeten Teile.
 
 **Wichtig: Den unteren Teil der Steckverbindung solltet Ihr jetzt natürlich entfernen. Er wird nicht vom Schrumpfschlauch eingefasst.**
 
-[![](images/01-fluegel/d55e28-www.nerdiy.de-20200629-181948.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-181948.jpg?ssl=1)
+[![](images/01-fluegel/d55e28-www.nerdiy.de-20200629-181948.jpg)](images/01-fluegel/d55e28-www.nerdiy.de-20200629-181948.jpg)
 
 Weitere Ansicht.
 
-[![](images/01-fluegel/fc4947-www.nerdiy.de-20200629-182424.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182424.jpg?ssl=1)
+[![](images/01-fluegel/fc4947-www.nerdiy.de-20200629-182424.jpg)](images/01-fluegel/fc4947-www.nerdiy.de-20200629-182424.jpg)
 
 Prüft nun nochmal, dass der Schrumpfschlauch mindestens so lang wie der ganze Flügel ist.
 
-[![](images/01-fluegel/ff0392-www.nerdiy.de-20200629-182445.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182445.jpg?ssl=1)
+[![](images/01-fluegel/ff0392-www.nerdiy.de-20200629-182445.jpg)](images/01-fluegel/ff0392-www.nerdiy.de-20200629-182445.jpg)
 
 Falls ja, könnt Ihr den Flügel nun in den Schrumpfschlauch einstecken.
 
-[![](images/01-fluegel/c2af93-www.nerdiy.de-20200629-182501.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182501.jpg?ssl=1)
+[![](images/01-fluegel/c2af93-www.nerdiy.de-20200629-182501.jpg)](images/01-fluegel/c2af93-www.nerdiy.de-20200629-182501.jpg)
 
 Da Ihr nun gleich mit Heißluft den Schrumpfschlauch auf dem Flügel aufschrumpfen müsst, solltet Ihr den Flügel nun etwas von der Unterlage entfernt lagern.
 
 So vermeidet Ihr, dass die Unterlage von der heißen Luft beschädigt wird.
 
-[![](images/01-fluegel/0f3ca9-www.nerdiy.de-20200629-182521.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182521.jpg?ssl=1)
+[![](images/01-fluegel/0f3ca9-www.nerdiy.de-20200629-182521.jpg)](images/01-fluegel/0f3ca9-www.nerdiy.de-20200629-182521.jpg)
 
 Das könnte dann zum Beispiel so aussehen.
 
 Ich habe einfach zwei leere Kisten verwendet.
 
-[![](images/01-fluegel/c08f6c-www.nerdiy.de-20200629-182734.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182734.jpg?ssl=1)
+[![](images/01-fluegel/c08f6c-www.nerdiy.de-20200629-182734.jpg)](images/01-fluegel/c08f6c-www.nerdiy.de-20200629-182734.jpg)
 
 Nahansicht des Flügels im Schrumpfschlauch.
 
-[![](images/01-fluegel/f25449-www.nerdiy.de-20200629-182736.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182736.jpg?ssl=1)
+[![](images/01-fluegel/f25449-www.nerdiy.de-20200629-182736.jpg)](images/01-fluegel/f25449-www.nerdiy.de-20200629-182736.jpg)
 
 Nahansicht des Flügels im Schrumpfschlauch.
 
-[![](images/01-fluegel/afb3a9-www.nerdiy.de-20200629-182744.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182744.jpg?ssl=1)
+[![](images/01-fluegel/afb3a9-www.nerdiy.de-20200629-182744.jpg)](images/01-fluegel/afb3a9-www.nerdiy.de-20200629-182744.jpg)
 
 Nahansicht des Flügels im Schrumpfschlauch.
 
-[![](images/01-fluegel/b5d6fb-www.nerdiy.de-20200629-182751.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-182751.jpg?ssl=1)
+[![](images/01-fluegel/b5d6fb-www.nerdiy.de-20200629-182751.jpg)](images/01-fluegel/b5d6fb-www.nerdiy.de-20200629-182751.jpg)
 
 Nahansicht des Flügels im Schrumpfschlauch.
 
-[![](images/01-fluegel/1962ea-www.nerdiy.de-20200629-183427.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/09/www.nerdiy.de-20200629-183427.jpg?ssl=1)
+[![](images/01-fluegel/1962ea-www.nerdiy.de-20200629-183427.jpg)](images/01-fluegel/1962ea-www.nerdiy.de-20200629-183427.jpg)
 
 Nahansicht des Flügels im Schrumpfschlauch.
 
@@ -481,6 +481,10 @@ Ziel beim Schrumpfen des Schrumpfschlauchs ist, dass dieser überall gleichmäß
 - die Heißluft niemals zu lange auf eine Stelle ausrichten
 - die Temperatur nicht zu heiß einstellen
 - im Zweifelsfall die betreffende Stelle erst abkühlen lassen und später nochmal an der Stelle arbeiten
+
+[![YouTube-Video JoYGpMMUiiY (Vorschau – klicken zum Abspielen)](images/01-fluegel/a3bb34-hqdefault.jpg)](https://www.youtube.com/watch?v=JoYGpMMUiiY)
+
+[![YouTube-Video RS3x0yrN1SI (Vorschau – klicken zum Abspielen)](images/01-fluegel/b6d6cd-hqdefault.jpg)](https://www.youtube.com/watch?v=RS3x0yrN1SI)
 
 ---
 
@@ -530,6 +534,10 @@ Wenn der Schrumpfschlauch später aufgeschrumpft wird, legt er sich automatisch 
 
 Im folgenden wieder zwei Videos wie ich beim verschrumpfen der Flügelenden vorgegangen bin.
 
+[![YouTube-Video kNXx0H9Riv8 (Vorschau – klicken zum Abspielen)](images/01-fluegel/a032a8-hqdefault.jpg)](https://www.youtube.com/watch?v=kNXx0H9Riv8)
+
+[![YouTube-Video 4glbc1DQCds (Vorschau – klicken zum Abspielen)](images/01-fluegel/a0322e-hqdefault.jpg)](https://www.youtube.com/watch?v=4glbc1DQCds)
+
 ---
 
 ## Fertig
@@ -548,5 +556,3 @@ Ich hoffe bei euch hat alles wie beschrieben funktioniert. Falls nicht oder ihr 
 Auch Ideen für neue Projekte sind immer gerne willkommen. 🙂
 
 **P.S. Viele dieser Projekte - besonders die Hardwareprojekte - kosten viel Zeit und Geld. Natürlich mache ich das weil ich Spaß daran habe, aber wenn Du es cool findest, dass ich die Infos dazu mit Euch teile, würde ich mich über eine kleine Spende an die Kaffeekasse freuen. 🙂**
-
-[![Buy Me a Coffee at ko-fi.com](images/01-fluegel/e5a787-kofi4.png)](https://ko-fi.com/nerdiy)          ![](images/01-fluegel/de9e76-pixel.gif)

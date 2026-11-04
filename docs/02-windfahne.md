@@ -37,7 +37,7 @@ Ich weiß die folgenden Hinweise sind immer irgendwie lästig und wirken unnöti
 
 Bevor es mit dem Aufbau der Windfahne losgehen kann, müsst Ihr natürlich zunächst alle benötigten Teile zusammen haben. Eine komplette Liste der benötigten Materialien und Werkzeuge findet Ihr weiter oben in der Material- und Werkzeugliste
 
-[![](images/02-windfahne/ddc7f3-www.nerdiy.de-20200721-153737.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-20200721-153737.jpg?ssl=1)
+[![](images/02-windfahne/ddc7f3-www.nerdiy.de-20200721-153737.jpg)](images/02-windfahne/ddc7f3-www.nerdiy.de-20200721-153737.jpg)
 
 Auf diesem Bild seht Ihr alle Bauteile die zum Aufbau der Windfahne benötigt werden.
 
@@ -208,105 +208,105 @@ Sobald die Löcher in beide Aluminiumprofile gebohrt sind, könnt Ihr so wie sch
 
 Euere Windfahne ist nun fast fertig. Im letzten Schritt wird das Segel eingesetzt, welches dem Wind eine Angriffsfläche geben soll.
 
-[![](images/02-windfahne/76b87c-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105852.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105852.jpg?ssl=1)
+[![](images/02-windfahne/76b87c-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105852.jpg)](images/02-windfahne/76b87c-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105852.jpg)
 
 Dazu benötigt Ihr die abgebildeten Teile
 
-[![](images/02-windfahne/d33d39-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105941.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105941.jpg?ssl=1)
+[![](images/02-windfahne/d33d39-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105941.jpg)](images/02-windfahne/d33d39-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-105941.jpg)
 
 Nahansicht der benötigten Teile.
 
-[![](images/02-windfahne/9d4290-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113148.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113148.jpg?ssl=1)
+[![](images/02-windfahne/9d4290-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113148.jpg)](images/02-windfahne/9d4290-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113148.jpg)
 
 Legt nun den Rahmen wie abgebildet auf den Stoff den Ihr für die Windfahne verwenden wollt.
 
 Ich habe hier eine Folie verwendet die auch für den Drachenbau genutzt wird. Eine normalen Mülltüte aus Kunststoff sollte aber auch funktionieren. 🙂
 
-[![](images/02-windfahne/37386b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113206.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113206.jpg?ssl=1)
+[![](images/02-windfahne/37386b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113206.jpg)](images/02-windfahne/37386b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113206.jpg)
 
 Zeichnet die innere Kontur nun leicht mit einem Stift nach.
 
-[![](images/02-windfahne/e50851-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113209.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113209.jpg?ssl=1)
+[![](images/02-windfahne/e50851-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113209.jpg)](images/02-windfahne/e50851-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113209.jpg)
 
 Nahansicht der Nachgezeichneten Kontur.
 
-[![](images/02-windfahne/eeb512-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113314.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113314.jpg?ssl=1)
+[![](images/02-windfahne/eeb512-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113314.jpg)](images/02-windfahne/eeb512-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113314.jpg)
 
 Nun könnt Ihr anhand der aufgezeichnete Kontur die Form der Windfahne ausschneiden.
 
-[![](images/02-windfahne/c528b3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113413.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113413.jpg?ssl=1)
+[![](images/02-windfahne/c528b3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113413.jpg)](images/02-windfahne/c528b3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113413.jpg)
 
 Die ausgedruckten Eckenwinkel werden nun wie abgebildet auf die Folie geklebt.
 
-[![](images/02-windfahne/30b9c8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113515.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113515.jpg?ssl=1)
+[![](images/02-windfahne/30b9c8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113515.jpg)](images/02-windfahne/30b9c8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113515.jpg)
 
 Wiederholt dies für alle Ecken.
 
 Euer Segel sollte dann in etwa so aussehen.
 
-[![](images/02-windfahne/830fde-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113524.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113524.jpg?ssl=1)
+[![](images/02-windfahne/830fde-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113524.jpg)](images/02-windfahne/830fde-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113524.jpg)
 
 Nun könnt Ihr noch einmal testen ob das Segel in den Rahmen passt. Die Eckenteile sollten zum Rahmen mindestens einen cm Abstand haben.
 
-[![](images/02-windfahne/cbebd8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113536.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113536.jpg?ssl=1)
+[![](images/02-windfahne/cbebd8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113536.jpg)](images/02-windfahne/cbebd8-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113536.jpg)
 
 Für den nächsten Schritt müsst Ihr Euer Segel nun so hinlegen, dass die aufgeklebten Eckenteile unter dem Segel liegen.
 
-[![](images/02-windfahne/07dd63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113647.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113647.jpg?ssl=1)
+[![](images/02-windfahne/07dd63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113647.jpg)](images/02-windfahne/07dd63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113647.jpg)
 
 In diesem Schritt müsst Ihr nämlich die Löcher für die Schrauben machen, welche später pro Ecke zwei Eckenteile verbinden.
 
 Dies geht bei Kunststoffmaterialien am leichtesten mit einem Lötkolben.
 
-[![](images/02-windfahne/579fe3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113745.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113745.jpg?ssl=1)
+[![](images/02-windfahne/579fe3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113745.jpg)](images/02-windfahne/579fe3-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113745.jpg)
 
 Wiederholt dies nun für alle Löcher der Eckenwinkel.
 
-[![](images/02-windfahne/1427ac-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113846.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113846.jpg?ssl=1)
+[![](images/02-windfahne/1427ac-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113846.jpg)](images/02-windfahne/1427ac-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-113846.jpg)
 
 Nun könnt Ihr das passende Gegenstück des jeweiligen Eckenwinkels auflegen und mit dem M3x6 Senkkopfschrauben…
 
-[![](images/02-windfahne/7a6eea-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114302.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114302.jpg?ssl=1)
+[![](images/02-windfahne/7a6eea-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114302.jpg)](images/02-windfahne/7a6eea-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114302.jpg)
 
 …und den M3 Muttern auf der Gegenseite verschrauben.
 
-[![](images/02-windfahne/6fa766-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114812.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114812.jpg?ssl=1)
+[![](images/02-windfahne/6fa766-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114812.jpg)](images/02-windfahne/6fa766-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114812.jpg)
 
 Falls Euer Segel noch nicht 100% passt könnt Ihr es nun nochmal etwas genauer zuschneiden.
 
-[![](images/02-windfahne/e67a63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114932.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114932.jpg?ssl=1)
+[![](images/02-windfahne/e67a63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114932.jpg)](images/02-windfahne/e67a63-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114932.jpg)
 
 So könnte Euer fertiges Segel dann aussehen. 🙂
 
-[![](images/02-windfahne/3154b5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114945-1.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114945-1.jpg?ssl=1)
+[![](images/02-windfahne/3154b5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114945-1.jpg)](images/02-windfahne/3154b5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-114945-1.jpg)
 
 Um das Segeln nun in den Rahmen der Windfahne einzuspannen eignen sich Kabelbinder am besten.
 
-[![](images/02-windfahne/1982f5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115056.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115056.jpg?ssl=1)
+[![](images/02-windfahne/1982f5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115056.jpg)](images/02-windfahne/1982f5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115056.jpg)
 
 Fixiert das Segel nun wie abgebildet mit den Kabelbindern im Rahmen.
 
 Dies funktioniert am einfachsten, wenn Ihr den Rahmen schon auf dem Geräteträger montiert habt.
 
-[![](images/02-windfahne/178eb5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115059.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115059.jpg?ssl=1)
+[![](images/02-windfahne/178eb5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115059.jpg)](images/02-windfahne/178eb5-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115059.jpg)
 
 Indem Ihr die Kabelbinder in den Ecken nun strammer zieht könnt Ihr die Spannung des Segels genau einstellen.
 
 Es sollte straff und ohne Falten im Rahmen hängen.
 
-[![](images/02-windfahne/ae33de-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115202.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115202.jpg?ssl=1)
+[![](images/02-windfahne/ae33de-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115202.jpg)](images/02-windfahne/ae33de-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115202.jpg)
 
 Denkt daran, die überstehenden Enden der Kabelbinder abzuschneiden.
 
-[![](images/02-windfahne/b50bb2-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115238.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115238.jpg?ssl=1)
+[![](images/02-windfahne/b50bb2-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115238.jpg)](images/02-windfahne/b50bb2-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115238.jpg)
 
 Ist das Segel komplett eingespannt sollte Eure Windfahne in etwa so aussehen.
 
-[![](images/02-windfahne/00f919-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115241.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115241.jpg?ssl=1)
+[![](images/02-windfahne/00f919-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115241.jpg)](images/02-windfahne/00f919-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115241.jpg)
 
 Nahansicht einer Ecke.
 
-[![](images/02-windfahne/47ff6b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115242.jpg)](https://i0.wp.com/nerdiy.de/wp-content/uploads/2020/10/www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115242.jpg?ssl=1)
+[![](images/02-windfahne/47ff6b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115242.jpg)](images/02-windfahne/47ff6b-www.nerdiy.de-howto-windiy-windfahne-zusammenbauen-20201004-115242.jpg)
 
 Nahansicht einer Ecke.
 
@@ -318,5 +318,3 @@ Ich hoffe bei euch hat alles wie beschrieben funktioniert. Falls nicht oder ihr 
 Auch Ideen für neue Projekte sind immer gerne willkommen. 🙂
 
 **P.S. Viele dieser Projekte - besonders die Hardwareprojekte - kosten viel Zeit und Geld. Natürlich mache ich das weil ich Spaß daran habe, aber wenn Du es cool findest, dass ich die Infos dazu mit Euch teile, würde ich mich über eine kleine Spende an die Kaffeekasse freuen. 🙂**
-
-[![Buy Me a Coffee at ko-fi.com](images/02-windfahne/e5a787-kofi4.png)](https://ko-fi.com/nerdiy)          ![](images/02-windfahne/de9e76-pixel.gif)
